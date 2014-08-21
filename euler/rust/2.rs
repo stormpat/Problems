@@ -1,9 +1,10 @@
 
+
 fn main() {
   let problem = 2i;
   println!("Euler problem {} \n", problem);
   // Begin problem
-  evens();
+  println!("{}", evens());
 }
 
 fn evens() {
@@ -19,7 +20,7 @@ fn evens() {
 
 fn fib(num: int) -> int {
   if num < 2 {
-    return 1i;
+    return 1;
   } else {
     return fib(num - 2) + fib(num - 1);
   }

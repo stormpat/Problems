@@ -1,3 +1,10 @@
-## Euler problems with Rust
+## Problem solving with various languages
 
-Nothing special here, move along.
+This repo is a collection of small programs with various languages.
+Mainly to learn new langauges, and try out stuff in others.
+
+Current languages:
+
+- Rust
+- Haskell
+- Python
