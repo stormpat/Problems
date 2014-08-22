@@ -7,6 +7,4 @@ module Main where
   isValid = sum $ filter solver [1..999]
 
   main :: IO ()
-  main = print isValid -- (Sum is: 233168)
-
-
+  main = print isValid
